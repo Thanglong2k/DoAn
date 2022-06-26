@@ -1,0 +1,31 @@
+.icon-overview {
+    background-image: url('../icons/navbar/analytics.png');
+    /* width: 23px;
+    height: 23px; */
+}
+.icon-equipment {
+    background-image: url('../icons/navbar/product.png');
+    /* width: 26px;
+    height: 23px; */
+}
+.icon-order {
+    background-image: url('../icons/navbar/conveyor.png');
+    /* width: 23px;
+    height: 23px; */
+}
+.icon-shoppingregistration {
+    background-image: url('../icons/navbar/categories.png');
+    /* width: 29px;
+    height: 18px; */
+}
+.icon-equipmentsearch {
+    background-image: url('../icons/navbar/cargo.png');
+    /* width: 25px;
+    height: 27px; */
+}
+.icon-setting {
+    background-image: url('../icons/ic_ThietLap.svg');
+}
+.icon-report {
+    background-image: url('../icons/ic_BaoCao.svg');
+}

@@ -1,0 +1,4 @@
+@import '../variables';
+@mixin border{
+    border:$default-border;
+}

@@ -1,0 +1,2521 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Devart (www.devart.com), the Database Diagram File -->
+<!-- Modifying this generated file will probably render it invalid -->
+<DevartDatabaseDiagram>
+  <SchemaVersion>1.2</SchemaVersion>
+  <DatabaseProvider>59f90733-4d68-4fdf-82a7-f0fcbf5460aa</DatabaseProvider>
+  <Connection>
+    <Name>localhost:3307</Name>
+    <Category>00000000-0000-0000-0000-000000000000</Category>
+    <ConnectionString>User Id=root;Host=localhost;Port=3307;Character Set=utf8</ConnectionString>
+  </Connection>
+  <Settings>
+    <DbDiagramOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <CustomProperties />
+    </DbDiagramOptions>
+    <Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PageOptions">
+      <TopLeftMargins>
+        <Width>39.3700787401575 in/100</Width>
+        <Height>39.3700787401575 in/100</Height>
+      </TopLeftMargins>
+      <BottomRightMargins>
+        <Width>39.3700787401575 in/100</Width>
+        <Height>39.3700787401575 in/100</Height>
+      </BottomRightMargins>
+      <PaperSize>
+        <Width>827 in/100</Width>
+        <Height>1169 in/100</Height>
+      </PaperSize>
+    </Options>
+    <Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="PrintOptions" />
+    <Options xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="ViewOptions">
+      <ShadowOffset>
+        <X>4 px</X>
+        <Y>4 px</Y>
+      </ShadowOffset>
+      <CustomProperties />
+    </Options>
+  </Settings>
+  <VirtualRelations>
+    <RelationCount>0</RelationCount>
+  </VirtualRelations>
+  <Diagram Version="1.22.1.0">
+    <DiagramModel>
+      <Model xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="DDRootModel">
+        <CustomProperties>
+          <OID>0</OID>
+        </CustomProperties>
+        <Children>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>1</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>41 px</Y>
+            </Location>
+            <Size>
+              <Width>202 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.account</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>2</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1162 px</X>
+              <Y>788 px</Y>
+            </Location>
+            <Size>
+              <Width>198 px</Width>
+              <Height>110 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.attribute</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>3</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>361 px</X>
+              <Y>548 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>195 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.attributeproduct</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>4</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>897 px</X>
+              <Y>158 px</Y>
+            </Location>
+            <Size>
+              <Width>224 px</Width>
+              <Height>212 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.category</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>5</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>733 px</X>
+              <Y>1747 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>229 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.comment</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>6</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>337 px</X>
+              <Y>1908 px</Y>
+            </Location>
+            <Size>
+              <Width>209 px</Width>
+              <Height>161 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.customer</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>7</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1020 px</X>
+              <Y>1467 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.evaluation</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>8</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1267 px</X>
+              <Y>484 px</Y>
+            </Location>
+            <Size>
+              <Width>197 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.feature</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>9</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>983 px</X>
+              <Y>500 px</Y>
+            </Location>
+            <Size>
+              <Width>223 px</Width>
+              <Height>212 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.featureproduct</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>10</OID>
+              <Comment>11</Comment>
+              <OutModel>9</OutModel>
+              <InModel>8</InModel>
+              <OutPort>12</OutPort>
+              <InPort>13</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>223 px</X>
+                  <Y>106.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>12</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>-0.5 px</X>
+                  <Y>122.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>13</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.featureproduct.FK_featureproduct_feature_FeatureID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>11</OID>
+              <HolderModel>10</HolderModel>
+              <Port>14</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-30.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>14</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>15</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>551 px</X>
+              <Y>41 px</Y>
+            </Location>
+            <Size>
+              <Width>232 px</Width>
+              <Height>161 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.manufacturer</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>16</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>336 px</X>
+              <Y>1583 px</Y>
+            </Location>
+            <Size>
+              <Width>213 px</Width>
+              <Height>263 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.`order`</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>17</OID>
+              <Comment>18</Comment>
+              <OutModel>16</OutModel>
+              <InModel>6</InModel>
+              <OutPort>19</OutPort>
+              <InPort>20</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>105.5 px</X>
+                  <Y>263.75 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>19</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>104.5 px</X>
+                  <Y>-0.75 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>20</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.`order`.FK_order_customer_CustomerID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>18</OID>
+              <HolderModel>17</HolderModel>
+              <Port>21</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>-31 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>21</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>22</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>328 px</X>
+              <Y>1294 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>229 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.orderdetail</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>23</OID>
+              <Comment>24</Comment>
+              <OutModel>22</OutModel>
+              <InModel>16</InModel>
+              <OutPort>25</OutPort>
+              <InPort>26</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>113.5 px</X>
+                  <Y>228.25 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>25</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>105.5 px</X>
+                  <Y>-0.25 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>26</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.orderdetail.FK_orderdetail_order_OrderID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>24</OID>
+              <HolderModel>23</HolderModel>
+              <Port>27</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>-30 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>27</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>28</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>651 px</X>
+              <Y>428 px</Y>
+            </Location>
+            <Size>
+              <Width>211 px</Width>
+              <Height>433 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.product</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>29</OID>
+              <Comment>30</Comment>
+              <OutModel>28</OutModel>
+              <InModel>4</InModel>
+              <OutPort>31</OutPort>
+              <InPort>32</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>186.5 px</X>
+                  <Y>2.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>31</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>1 px</X>
+                  <Y>104.75 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>32</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <BendPoints>
+              <PointD>
+                <X>837.5 px</X>
+                <Y>262.75 px</Y>
+              </PointD>
+            </BendPoints>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.product.FK_product_category_CategoryID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>30</OID>
+              <HolderModel>29</HolderModel>
+              <Port>33</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>82.625 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>33</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>34</OID>
+              <Comment>35</Comment>
+              <OutModel>28</OutModel>
+              <InModel>15</InModel>
+              <OutPort>36</OutPort>
+              <InPort>37</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>16 px</X>
+                  <Y>2.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>36</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>116 px</X>
+                  <Y>161.25 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>37</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.product.FK_product_manufacturer_ManufacturerID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>35</OID>
+              <HolderModel>34</HolderModel>
+              <Port>38</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>113 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>38</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>39</OID>
+              <Comment>40</Comment>
+              <OutModel>3</OutModel>
+              <InModel>28</InModel>
+              <OutPort>41</OutPort>
+              <InPort>42</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>229 px</X>
+                  <Y>97 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>41</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>-0.5 px</X>
+                  <Y>217 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>42</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.attributeproduct.FK_attributeproduct_ProductID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>40</OID>
+              <HolderModel>39</HolderModel>
+              <Port>43</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-30.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>43</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>44</OID>
+              <Comment>45</Comment>
+              <OutModel>9</OutModel>
+              <InModel>28</InModel>
+              <OutPort>46</OutPort>
+              <InPort>47</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>0.25 px</X>
+                  <Y>106.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>46</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>211.25 px</X>
+                  <Y>178.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>47</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.featureproduct.FK_featureproduct_product_ProductID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>45</OID>
+              <HolderModel>44</HolderModel>
+              <Port>48</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>60.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>48</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>49</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>733 px</X>
+              <Y>1492 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>195 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.productattribute</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>50</OID>
+              <Comment>51</Comment>
+              <OutModel>49</OutModel>
+              <InModel>28</InModel>
+              <OutPort>52</OutPort>
+              <InPort>53</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>112.75 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>52</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>194.75 px</X>
+                  <Y>431.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>53</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.productattribute.FK_productattribute_ProductAttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>51</OID>
+              <HolderModel>50</HolderModel>
+              <Port>54</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>315.5 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>54</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>55</OID>
+              <Comment>56</Comment>
+              <OutModel>5</OutModel>
+              <InModel>49</InModel>
+              <OutPort>57</OutPort>
+              <InPort>58</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>112.75 px</X>
+                  <Y>0.75 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>57</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>112.75 px</X>
+                  <Y>195.25 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>58</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.comment.FK_comment_ProductAttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>56</OID>
+              <HolderModel>55</HolderModel>
+              <Port>59</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>30 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>59</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>60</OID>
+              <Comment>61</Comment>
+              <OutModel>7</OutModel>
+              <InModel>49</InModel>
+              <OutPort>62</OutPort>
+              <InPort>63</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>1.75 px</X>
+                  <Y>121.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>62</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>228.25 px</X>
+                  <Y>96.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>63</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.evaluation.FK_evaluation_ProductAttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>61</OID>
+              <HolderModel>60</HolderModel>
+              <Port>64</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>29 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>64</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>65</OID>
+              <Comment>66</Comment>
+              <OutModel>22</OutModel>
+              <InModel>49</InModel>
+              <OutPort>67</OutPort>
+              <InPort>68</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>229 px</X>
+                  <Y>211.75 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>67</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>13.75 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>68</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.orderdetail.FK_orderdetail_ProductAttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>66</OID>
+              <HolderModel>65</HolderModel>
+              <Port>69</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-88 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>69</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>70</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>40 px</X>
+              <Y>1285 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.productdetail</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>71</OID>
+              <Comment>72</Comment>
+              <OutModel>70</OutModel>
+              <InModel>49</InModel>
+              <OutPort>73</OutPort>
+              <InPort>74</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>112.75 px</X>
+                  <Y>245.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>73</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>178.75 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>74</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <BendPoints>
+              <PointD>
+                <X>152.75 px</X>
+                <Y>2130 px</Y>
+              </PointD>
+              <PointD>
+                <X>672.5 px</X>
+                <Y>2130 px</Y>
+              </PointD>
+              <PointD>
+                <X>672.5 px</X>
+                <Y>1670.75 px</Y>
+              </PointD>
+            </BendPoints>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.productdetail.FK_productdetail_ProductAttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>72</OID>
+              <HolderModel>71</HolderModel>
+              <Port>75</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-259.875 px</X>
+                  <Y>-599 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>75</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>76</OID>
+              <Comment>77</Comment>
+              <OutModel>70</OutModel>
+              <InModel>22</InModel>
+              <OutPort>78</OutPort>
+              <InPort>79</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>228.25 px</X>
+                  <Y>124.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>78</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0.75 px</X>
+                  <Y>115.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>79</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.productdetail.FK_productdetail_orderdetail_OrderDetailID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>77</OID>
+              <HolderModel>76</HolderModel>
+              <Port>80</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-29.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>80</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>81</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>317 px</X>
+              <Y>980 px</Y>
+            </Location>
+            <Size>
+              <Width>207 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.receipt</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>82</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>48 px</X>
+              <Y>980 px</Y>
+            </Location>
+            <Size>
+              <Width>210 px</Width>
+              <Height>246 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.receiptdetail</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>83</OID>
+              <Comment>84</Comment>
+              <OutModel>82</OutModel>
+              <InModel>28</InModel>
+              <OutPort>85</OutPort>
+              <InPort>86</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>192.75 px</X>
+                  <Y>0.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>85</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>16 px</X>
+                  <Y>431.5 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>86</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <BendPoints>
+              <PointD>
+                <X>240.75 px</X>
+                <Y>920 px</Y>
+              </PointD>
+              <PointD>
+                <X>667 px</X>
+                <Y>920 px</Y>
+              </PointD>
+            </BendPoints>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.receiptdetail.FK_receiptdetail_product_ProductID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>84</OID>
+              <HolderModel>83</HolderModel>
+              <Port>87</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-213.125 px</X>
+                  <Y>60 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>87</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>88</OID>
+              <Comment>89</Comment>
+              <OutModel>82</OutModel>
+              <InModel>81</InModel>
+              <OutPort>90</OutPort>
+              <InPort>91</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>209.25 px</X>
+                  <Y>124.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>90</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0.75 px</X>
+                  <Y>124.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>91</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.receiptdetail.FK_receiptdetail_receipt_ReceipitID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>89</OID>
+              <HolderModel>88</HolderModel>
+              <Port>92</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-29.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>92</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>93</OID>
+              <Comment>94</Comment>
+              <OutModel>70</OutModel>
+              <InModel>82</InModel>
+              <OutPort>95</OutPort>
+              <InPort>96</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>112.75 px</X>
+                  <Y>0.75 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>95</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>104.75 px</X>
+                  <Y>245.25 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Bottom</Align>
+                <CustomProperties>
+                  <OID>96</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.productdetail.FK_productdetail_receiptdetail_ReceiptDetailID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>94</OID>
+              <HolderModel>93</HolderModel>
+              <Port>97</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>0 px</X>
+                  <Y>29.5 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>97</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>98</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>584 px</X>
+              <Y>997 px</Y>
+            </Location>
+            <Size>
+              <Width>202 px</Width>
+              <Height>212 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.suplier</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>99</OID>
+              <Comment>100</Comment>
+              <OutModel>81</OutModel>
+              <InModel>98</InModel>
+              <OutPort>101</OutPort>
+              <InPort>102</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>207 px</X>
+                  <Y>124.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>101</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0.5 px</X>
+                  <Y>107.25 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>102</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.receipt.FK_receipt_suplier_SuplierID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>100</OID>
+              <HolderModel>99</HolderModel>
+              <Port>103</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-30 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>103</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="TableModel">
+            <CustomProperties>
+              <OID>104</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>923 px</X>
+              <Y>771 px</Y>
+            </Location>
+            <Size>
+              <Width>178 px</Width>
+              <Height>144 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.value</Path>
+              <TypeName>Table</TypeName>
+            </DbOid>
+            <Compartments>
+              <ConstraintsCollapsed>True</ConstraintsCollapsed>
+              <IndexesCollapsed>True</IndexesCollapsed>
+              <TriggersCollapsed>True</TriggersCollapsed>
+            </Compartments>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>105</OID>
+              <Comment>106</Comment>
+              <OutModel>104</OutModel>
+              <InModel>2</InModel>
+              <OutPort>107</OutPort>
+              <InPort>108</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>178.5 px</X>
+                  <Y>72 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>107</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>55 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>108</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.value.FK_value_attribute_AttributeID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>106</OID>
+              <HolderModel>105</HolderModel>
+              <Port>109</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>-30.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>109</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>110</OID>
+              <Comment>111</Comment>
+              <OutModel>104</OutModel>
+              <InModel>28</InModel>
+              <OutPort>112</OutPort>
+              <InPort>113</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>-0.25 px</X>
+                  <Y>72 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>112</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>211.25 px</X>
+                  <Y>415 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>113</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.value.FK_value_product_ProductID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>111</OID>
+              <HolderModel>110</HolderModel>
+              <Port>114</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>30.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>114</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="ViewModel">
+            <CustomProperties>
+              <OID>115</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1794 px</X>
+              <Y>337 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>191 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.productattribute_rating</Path>
+              <TypeName>View</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="ViewModel">
+            <CustomProperties>
+              <OID>116</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2054 px</X>
+              <Y>337 px</Y>
+            </Location>
+            <Size>
+              <Width>146 px</Width>
+              <Height>90 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.productrating</Path>
+              <TypeName>View</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="ViewModel">
+            <CustomProperties>
+              <OID>117</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>337 px</Y>
+            </Location>
+            <Size>
+              <Width>231 px</Width>
+              <Height>480 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.product_attribute</Path>
+              <TypeName>View</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>118</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2684 px</X>
+              <Y>867 px</Y>
+            </Location>
+            <Size>
+              <Width>324 px</Width>
+              <Height>79 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_CheckCustomerPurchasedProduct</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>119</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2124 px</X>
+              <Y>1357 px</Y>
+            </Location>
+            <Size>
+              <Width>184 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetCategorys</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>120</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2064 px</X>
+              <Y>867 px</Y>
+            </Location>
+            <Size>
+              <Width>269 px</Width>
+              <Height>113 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetCommentByProductAttributeID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>121</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1784 px</X>
+              <Y>1357 px</Y>
+            </Location>
+            <Size>
+              <Width>297 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetCustomerByPhoneNumber</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>122</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2364 px</X>
+              <Y>867 px</Y>
+            </Location>
+            <Size>
+              <Width>276 px</Width>
+              <Height>113 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetEvaluationByProductAttributeID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>123</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2564 px</X>
+              <Y>1267 px</Y>
+            </Location>
+            <Size>
+              <Width>215 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetManufacturers</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>124</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2064 px</X>
+              <Y>1267 px</Y>
+            </Location>
+            <Size>
+              <Width>246 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetNewCustomerCode</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>125</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1764 px</X>
+              <Y>1267 px</Y>
+            </Location>
+            <Size>
+              <Width>255 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetOrderByCustomerID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>126</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2074 px</X>
+              <Y>1157 px</Y>
+            </Location>
+            <Size>
+              <Width>270 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetOrderByPhoneNumber</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>127</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1764 px</X>
+              <Y>1157 px</Y>
+            </Location>
+            <Size>
+              <Width>268 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetOrderDetailByOrderID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>128</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2354 px</X>
+              <Y>1357 px</Y>
+            </Location>
+            <Size>
+              <Width>319 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductAttributeByProductID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>129</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2594 px</X>
+              <Y>1037 px</Y>
+            </Location>
+            <Size>
+              <Width>252 px</Width>
+              <Height>62 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductBestSellings</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>130</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2704 px</X>
+              <Y>1357 px</Y>
+            </Location>
+            <Size>
+              <Width>201 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductById</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>131</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2384 px</X>
+              <Y>1157 px</Y>
+            </Location>
+            <Size>
+              <Width>302 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductByProductAttribute</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>132</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2724 px</X>
+              <Y>1157 px</Y>
+            </Location>
+            <Size>
+              <Width>232 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductInfoByID</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>133</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>1267 px</Y>
+            </Location>
+            <Size>
+              <Width>206 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductNews</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>134</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2294 px</X>
+              <Y>1037 px</Y>
+            </Location>
+            <Size>
+              <Width>261 px</Width>
+              <Height>79 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductRecommands</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>135</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2034 px</X>
+              <Y>1037 px</Y>
+            </Location>
+            <Size>
+              <Width>228 px</Width>
+              <Height>79 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductRelateds</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>136</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>2344 px</X>
+              <Y>1267 px</Y>
+            </Location>
+            <Size>
+              <Width>175 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProducts</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>137</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>867 px</Y>
+            </Location>
+            <Size>
+              <Width>255 px</Width>
+              <Height>130 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetProductsByCategory</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>138</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>1357 px</Y>
+            </Location>
+            <Size>
+              <Width>230 px</Width>
+              <Height>46 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_GetRatingOfProduct</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>139</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1784 px</X>
+              <Y>1037 px</Y>
+            </Location>
+            <Size>
+              <Width>202 px</Width>
+              <Height>79 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_InsertComment</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>140</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>1037 px</Y>
+            </Location>
+            <Size>
+              <Width>229 px</Width>
+              <Height>79 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_InsertCustomer</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>141</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1814 px</X>
+              <Y>867 px</Y>
+            </Location>
+            <Size>
+              <Width>206 px</Width>
+              <Height>130 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_InsertEvaluation</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>142</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>1157 px</Y>
+            </Location>
+            <Size>
+              <Width>206 px</Width>
+              <Height>62 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Proc_Login</Path>
+              <TypeName>Procedure</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="StoredProcModel">
+            <CustomProperties>
+              <OID>143</OID>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <Location>
+              <X>1514 px</X>
+              <Y>1453 px</Y>
+            </Location>
+            <Size>
+              <Width>523 px</Width>
+              <Height>62 px</Height>
+            </Size>
+            <DbOid>
+              <Path>doantotnghiep.Func_GetSubfixIsNumber</Path>
+              <TypeName>Function</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>144</OID>
+              <Comment>145</Comment>
+              <OutModel>5</OutModel>
+              <InModel>6</InModel>
+              <OutPort>146</OutPort>
+              <InPort>147</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>195 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>146</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>34 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Right</Align>
+                <CustomProperties>
+                  <OID>147</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.comment.FK_comment_CustomerID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>145</OID>
+              <HolderModel>144</HolderModel>
+              <Port>148</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>93.5 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>148</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+          <Model xsi:type="RelationLinkModel">
+            <CustomProperties>
+              <OID>149</OID>
+              <Comment>150</Comment>
+              <OutModel>7</OutModel>
+              <InModel>6</InModel>
+              <OutPort>151</OutPort>
+              <InPort>152</InPort>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port>
+                <Location>
+                  <X>0 px</X>
+                  <Y>184.5 px</Y>
+                </Location>
+                <Anchors>Top Bottom</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>151</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+              <Port>
+                <Location>
+                  <X>156.75 px</X>
+                  <Y>0 px</Y>
+                </Location>
+                <Anchors>Left Right</Anchors>
+                <Align>Top</Align>
+                <CustomProperties>
+                  <OID>152</OID>
+                  <PortType>FloatAnchor</PortType>
+                </CustomProperties>
+              </Port>
+            </PortAnchors>
+            <BendPoints>
+              <PointD>
+                <X>1000 px</X>
+                <Y>1651.5 px</Y>
+              </PointD>
+              <PointD>
+                <X>1000 px</X>
+                <Y>1706 px</Y>
+              </PointD>
+              <PointD>
+                <X>565 px</X>
+                <Y>1706 px</Y>
+              </PointD>
+              <PointD>
+                <X>565 px</X>
+                <Y>1888 px</Y>
+              </PointD>
+              <PointD>
+                <X>493.75 px</X>
+                <Y>1888 px</Y>
+              </PointD>
+            </BendPoints>
+            <IsManuallyRouted>false</IsManuallyRouted>
+            <DbOid>
+              <Path>doantotnghiep.evaluation.FK_evaluation_CustomerID</Path>
+              <TypeName>ForeignKey</TypeName>
+            </DbOid>
+          </Model>
+          <Model xsi:type="RelationCommentModel">
+            <CustomProperties>
+              <OID>150</OID>
+              <HolderModel>149</HolderModel>
+              <Port>153</Port>
+              <Parent>0</Parent>
+            </CustomProperties>
+            <PortAnchors>
+              <Port xsi:type="LinkPort">
+                <Location>
+                  <X>237.5 px</X>
+                  <Y>-54.5 px</Y>
+                </Location>
+                <Anchors>None</Anchors>
+                <Align>Left</Align>
+                <CustomProperties>
+                  <OID>153</OID>
+                  <PortType>FixedAnchor</PortType>
+                </CustomProperties>
+                <LinkPortAnchor>OutPoint</LinkPortAnchor>
+              </Port>
+            </PortAnchors>
+            <CommentOffset>
+              <X>22 px</X>
+              <Y>2 px</Y>
+            </CommentOffset>
+          </Model>
+        </Children>
+        <ViewPort>
+          <ScaleMode>Free</ScaleMode>
+          <Scale>0.69</Scale>
+          <Location>
+            <X>-271.30434407629 px</X>
+            <Y>1165.56527559008 px</Y>
+          </Location>
+        </ViewPort>
+      </Model>
+    </DiagramModel>
+  </Diagram>
+</DevartDatabaseDiagram>

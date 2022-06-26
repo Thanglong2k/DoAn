@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e010c67f-7dc5-4fcd-a64a-10556f1dffe9": {
+      "ProjectGuid": "e010c67f-7dc5-4fcd-a64a-10556f1dffe9",
+      "DisplayName": "doantotnghiep",
+      "ColorIndex": 0
+    },
+    "990b4797-a6c0-4f47-8f01-e91d5817d869": {
+      "ProjectGuid": "990b4797-a6c0-4f47-8f01-e91d5817d869",
+      "DisplayName": "Core",
+      "ColorIndex": 1
+    },
+    "27346864-6083-409b-9169-7fd01a21802c": {
+      "ProjectGuid": "27346864-6083-409b-9169-7fd01a21802c",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

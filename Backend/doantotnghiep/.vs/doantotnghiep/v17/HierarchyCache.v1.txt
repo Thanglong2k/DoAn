@@ -1,0 +1,274 @@
+﻿++Solution 'doantotnghiep' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:doantotnghiep.sln
+++doantotnghiep
+i:{00000000-0000-0000-0000-000000000000}:doantotnghiep
+++Connected Services 
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:>471
+++Dependencies
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:>470
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:>380
+i:{27346864-6083-409b-9169-7fd01a21802c}:>381
+++Properties
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\properties\
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\properties\
+++wwwroot
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\
+++Images
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\
+++Controllers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\
+++AccountController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\accountcontroller.cs
+++BaseEntityController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\baseentitycontroller.cs
+++CategoryController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\categorycontroller.cs
+++CommentController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\commentcontroller.cs
+++CustomerController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\customercontroller.cs
+++EvaluationController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\evaluationcontroller.cs
+++ManufacturerController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\manufacturercontroller.cs
+++OrderController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\ordercontroller.cs
+++ProductController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\productcontroller.cs
+++WeatherForecastController.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\controllers\weatherforecastcontroller.cs
+++appsettings.json
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\appsettings.json
+++Program.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\program.cs
+++WeatherForecast.cs
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\weatherforecast.cs
+++No service dependencies discovered
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:>472
+++Analyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:analyzers
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:analyzers
+i:{27346864-6083-409b-9169-7fd01a21802c}:analyzers
+++Frameworks
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:frameworks
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:frameworks
+i:{27346864-6083-409b-9169-7fd01a21802c}:frameworks
+++Packages
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:packages
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:packages
+i:{27346864-6083-409b-9169-7fd01a21802c}:packages
+++Projects
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:projects
+i:{27346864-6083-409b-9169-7fd01a21802c}:projects
+++launchSettings.json
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\properties\launchsettings.json
+++800x800_flip_3_cream.webp
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\800x800_flip_3_cream.webp
+++iphone_13-_pro-5_4.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\iphone_13-_pro-5_4.jpg
+++joy-3-4g-tim.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\joy-3-4g-tim.jpg
+++SHCB5603821500316217.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\shcb5603821500316217.jpg
+++vivo-x60-pro-8.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\vivo-x60-pro-8.jpg
+++vivo-y21-white-01-1-600x600.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\vivo-y21-white-01-1-600x600.jpg
+++vsmart1.webp
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\vsmart1.webp
+++yellow_final_2.jpg
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\wwwroot\images\yellow_final_2.jpg
+++appsettings.Development.json
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{27346864-6083-409b-9169-7fd01a21802c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{27346864-6083-409b-9169-7fd01a21802c}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{27346864-6083-409b-9169-7fd01a21802c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\doantotnghiep\microsoft.netcore.app
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\microsoft.netcore.app
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\microsoft.netcore.app
+++Swashbuckle.AspNetCore (6.2.3)
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:>512
+++Core
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\bin\debug\net6.0\core.dll
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\bin\debug\net6.0\core.dll
+++Infrastructure
+i:{e010c67f-7dc5-4fcd-a64a-10556f1dffe9}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\bin\debug\net6.0\infrastructure.dll
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++Const
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\const\
+++Const.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\const\const.cs
+++Entities
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\
+++Account.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\account.cs
+++BaseEntity.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\baseentity.cs
+++Category.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\category.cs
+++Comment.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\comment.cs
+++Customer.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\customer.cs
+++CustomMapper.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\custommapper.cs
+++Evaluation.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\evaluation.cs
+++Manufacturer.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\manufacturer.cs
+++Order.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\order.cs
+++OrderDetail.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\orderdetail.cs
+++OutputFilterPaging.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\outputfilterpaging.cs
+++Product.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\product.cs
+++ProductAttribute.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\productattribute.cs
+++ProductDetail.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\productdetail.cs
+++ResponseError.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\responseerror.cs
+++ServiceResult.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\entities\serviceresult.cs
+++Enum
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\enum\
+++Enum.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\enum\enum.cs
+++Interfaces
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\
+++IAccountRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\iaccountrepository.cs
+++IBaseRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\ibaserepository.cs
+++ICategoryRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\icategoryrepository.cs
+++ICommentRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\icommentrepository.cs
+++ICustomerRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\icustomerrepository.cs
+++IEvaluationRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\ievaluationrepository.cs
+++IManufacturerRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\imanufacturerrepository.cs
+++IOrderRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\iorderrepository.cs
+++IProductRepository.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\infrastructure\iproductrepository.cs
+++Service
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\
+++IAccountService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\iaccountservice.cs
+++IBaseService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\ibaseservice.cs
+++ICategoryService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\icategoryservice.cs
+++ICommentService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\icommentservice.cs
+++ICustomerService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\icustomerservice.cs
+++IEvaluationService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\ievaluationservice.cs
+++IManufacturerService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\imanufacturerservice.cs
+++IOrderService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\iorderservice.cs
+++IProductService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\interfaces\service\iproductservice.cs
+++Model
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\model\
+++ViewOrder.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\model\vieworder.cs
+++ViewOrderDetail.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\model\vieworderdetail.cs
+++Services
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\
+++AccountService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\accountservice.cs
+++BaseService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\baseservice.cs
+++CategoryService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\categoryservice.cs
+++CommentService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\commentservice.cs
+++CustomerService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\customerservice.cs
+++EvaluationService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\evaluationservice.cs
+++ManufacturerService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\manufacturerservice.cs
+++OrderService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\orderservice.cs
+++ProductService.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\services\productservice.cs
+++Class1.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\class1.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\class1.cs
+++Resources.Designer.cs
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\properties\resources.designer.cs
+++Resources.resx
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\core\properties\resources.resx
+++Dapper.Contrib (2.0.78)
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:>499
+++Microsoft.AspNetCore.Hosting (2.2.7)
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:>503
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{990b4797-a6c0-4f47-8f01-e91d5817d869}:>502
+i:{27346864-6083-409b-9169-7fd01a21802c}:>482
+++Repository
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\
+++AccountRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\accountrepository.cs
+++BaseRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\baserepository.cs
+++CategoryRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\categoryrepository.cs
+++CommentRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\commentrepository.cs
+++CustomerRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\customerrepository.cs
+++EvaluationRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\evaluationrepository.cs
+++ManufacturerRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\manufacturerrepository.cs
+++OrderRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\orderrepository.cs
+++ProductRepository.cs
+i:{27346864-6083-409b-9169-7fd01a21802c}:e:\nam4\ki2\doantotnghiep\backend\doantotnghiep\infrastructure\repository\productrepository.cs
+++Dapper (2.0.123)
+i:{27346864-6083-409b-9169-7fd01a21802c}:>481
+++Microsoft.Extensions.Configuration (6.0.0)
+i:{27346864-6083-409b-9169-7fd01a21802c}:>483
+++MySqlConnector (2.1.7)
+i:{27346864-6083-409b-9169-7fd01a21802c}:>480
